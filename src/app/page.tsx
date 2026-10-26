@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Image from "next/image";
-import { ArrowDown, ArrowDownRight, ArrowRight, ArrowUp, BriefcaseBusiness, Check, ChevronDown, Code2, Download, ExternalLink, Github, GraduationCap, Leaf, Mail, MapPin, Menu, Monitor, Sprout, X } from "lucide-react";
+import { ArrowDown, ArrowDownRight, ArrowRight, ArrowUp, BriefcaseBusiness, Code2, ExternalLink, GraduationCap, Leaf, Mail, MapPin, Menu, Monitor, Sprout, X } from "lucide-react";
 import { portfolio } from "@/data/portfolio";
 
 const navItems = [["About", "about"], ["Education", "education"], ["Skills", "skills"], ["Projects", "projects"], ["Contact", "contact"]] as const;
