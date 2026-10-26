@@ -10,7 +10,7 @@ Junerussell Patris
 
 ## Live Vercel Link
 
-**Not deployed yet.** After deployment, replace this line with the verified public URL, for example: `https://your-project.vercel.app`.
+https://patriscv-lemon.vercel.app/
 
 ## Technologies Used
 
