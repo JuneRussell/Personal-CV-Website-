@@ -1,0 +1,18 @@
+export const portfolio = {
+  name: "Junerussell Patris",
+  title: "Aspiring Software Developer | BSIT Student",
+  profileImage: "/images/patris.jpg",
+  school: "Davao del Norte State College",
+  email: "patris.junerussell@dnsc.edu.ph",
+  location: "New Visayas, Panabo City, Davao del Norte, Philippines",
+  introduction: "I am a student at Davao del Norte State College with an interest in software development and building practical technology solutions. Through academic and capstone projects, I explore application development, frontend interfaces, backend programming, and problem-solving. I aim to strengthen my technical skills and develop reliable, user-friendly applications that address real-world needs.",
+  objective: "To apply and improve my knowledge of software development by building practical, efficient, and user-friendly applications. I aim to gain professional experience, strengthen my programming and problem-solving skills, and contribute to technology projects that provide meaningful solutions to real-world challenges.",
+  interests: ["Desktop Applications", "Web Development", "Python Programming", "Sustainable Technology"],
+  education: { school: "Davao del Norte State College (DNSC)", status: "Currently studying", program: "Bachelor of Science in Information Technology", programConfirmed: false, focus: ["Programming", "Application development", "Software engineering", "Project development"] },
+  technologies: ["Electron.js", "Python"],
+  additionalSkills: [] as string[],
+  project: { name: "EcoTrack", description: "An academic capstone project developed with Electron.js for the desktop interface and Python for backend functionality. Its environmental tracking purpose is presented here at a high level; project features and outcomes can be added once confirmed by the project documentation.", purpose: "A sustainability-focused capstone concept. Add the documented project purpose here when ready.", features: [] as string[], challenges: "Add verified challenges and learning outcomes from the project experience.", githubUrl: "", demoUrl: "", screenshot: "" },
+  projects: [] as { name: string; description: string; technologies: string[]; image: string; githubUrl: string; demoUrl: string; status: string }[],
+  social: { github: "", linkedin: "", facebook: "" },
+  achievements: [] as { title: string; detail: string; date: string }[],
+};
